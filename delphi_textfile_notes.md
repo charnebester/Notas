@@ -1,4 +1,4 @@
-# Delphi/Pascal: Teksleêr- en String Manupilasie 
+# Delphi/Pascal: Teksleêr- en String Manupilasiee
 
 
 ---
