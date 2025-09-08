@@ -1,4 +1,4 @@
-# Delphi/Pascal: Teksleêr- en Stringnutsgoed (Notas)
+# Delphi/Pascal: Teksleêr- en String Manupilasie (Notas)
 
 
 ---
