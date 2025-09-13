@@ -1,5 +1,4 @@
-# Delphi/Pascal: Teksleêr- en String Manupilasiee
-
+# Delphi/Pascal: Teksleêr- en String Manupilasie
 
 ---
 
@@ -28,7 +27,7 @@ Inc(<variable>);
 
 // kom ons sê ek het 'n var X en X se waarde is 0.
 // As ek dan sê Inc(X) dan is dit so goed as wat ek sê X := X + 1;
-// So, basies plus een by X se huidige waarde en sit die nuwe waarde in X.
+// So, basies plus een by X se huidige waarde enh sit die nuwe waarde in X.
 // In ander tale sê ons nie Inc(X) nie; ons sê net X++
 ```
 
@@ -120,5 +119,3 @@ T := Copy(X, Y, Z);
 // en hy moet aanhou copy totdat hy 4 (Z) hoeveelheid char gekopieer het.
 // X is die string waaruit hy moet copy.
 ```
-
-
